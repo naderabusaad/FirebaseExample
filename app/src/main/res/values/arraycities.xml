@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_array">
+        <item>Jerusalem</item>
+        <item>Bethlehem</item>
+        <item>Beit Jala</item>
+        <item>Beit Sahour</item>
+        <item>Ramallah</item>
+        <item>Hebron</item>
+    </string-array>
+</resources>

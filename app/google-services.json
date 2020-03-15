@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720472720938",
+    "firebase_url": "https://fir-example-3050c.firebaseio.com",
+    "project_id": "fir-example-3050c",
+    "storage_bucket": "fir-example-3050c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720472720938:android:c23979b19a2beec40f2553",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720472720938-v7272rulv56ikud20b0uifc4muqnofon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseexample",
+            "certificate_hash": "3d0e04db18f53c2eef81b54944fc4dcf42019996"
+          }
+        },
+        {
+          "client_id": "720472720938-6hbu0t0f933vl7aq22rsbrhi0bonqus2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdsSf66Nq41yzVNcF4BRqBRiFRVh_5pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720472720938-6hbu0t0f933vl7aq22rsbrhi0bonqus2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
